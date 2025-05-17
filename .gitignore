@@ -1,0 +1,68 @@
+# Dependencias
+/node_modules
+/bower_components
+
+# Compilados
+/dist
+/tmp
+/out-tsc
+/bazel-out
+/.angular/cache
+
+# Archivos generados
+*.js.map
+*.css.map
+
+# IDEs y editores
+/.idea
+/.vscode
+*.sublime-workspace
+*.sublime-project
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+.editorconfig
+*.swp
+*.swo
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+.directory
+.env
+
+# Archivos de registro y debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# Archivos específicos de Angular
+.angular
+
+# Tests e2e
+/e2e/*.js
+/e2e/*.map
+
+# Ficheros de configuración con información sensible
+/src/environments/*.local.ts
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos de bloqueo de paquetes (depende de tu política)
+# yarn.lock
+# package-lock.json
+
+# Ficheros de construcción del sistema
+/.nx/cache
+/.nx/noop.webpack.plugin.js
+/.nx/workflows
