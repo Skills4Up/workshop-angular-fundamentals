@@ -186,3 +186,30 @@ Este workshop abarca los conceptos esenciales para comenzar con Angular:
 - **Clases**: Propiedades y métodos
 - **Estilos**: CSS/SCSS y encapsulación de vistas
 - **Jerarquía**: Componentes padres e hijos
+
+## 🤝 Contribuciones
+
+Este repositorio es de uso exclusivo interno de Skills4Up. No se aceptan contribuciones externas.
+
+Si eres parte del equipo de Skills4Up y deseas proponer una mejora o corrección:
+
+1. Crea un issue describiendo la mejora o problema.
+2. Realiza cambios en una rama con prefijo según el tipo:
+   - `feat/` para nuevas funcionalidades
+   - `fix/` para correcciones
+   - `docs/` para documentación
+   - `refactor/` para refactorización
+3. Usa mensajes de commit siguiendo el formato `type(scope): message`
+4. Envía un Pull Request vinculado al issue original.
+
+Todas las contribuciones internas incluirán los créditos correspondientes.
+
+## 📜 Licencia
+
+Copyright (c) 2024 Skills4Up
+
+Todos los derechos reservados.
+
+Este material es propiedad exclusiva de Skills4Up. Queda prohibida su reproducción, distribución, comunicación pública o transformación, total o parcial, sin la autorización expresa y por escrito de Skills4Up. El uso de este material está restringido únicamente a fines internos de Skills4Up.
+
+Para autorizaciones especiales, contacta a [info@skills4up.com](mailto:info@skills4up.com).
